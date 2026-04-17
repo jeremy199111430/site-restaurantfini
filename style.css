@@ -33,7 +33,7 @@ font-style: normal;
     flex-direction: column;
     justify-content: end;
     padding: 6rem 2rem;
-    background-image: url(../img/hero.webp);
+    background-image: url(img/hero.webp);
     background-size: cover;
     background-position: bottom;
   }
@@ -44,7 +44,7 @@ font-style: normal;
     left: 19vw;
     width: 70vw;
     height: 70vw;
-    background: url(../img/hero-light.svg);
+    background: url(img/hero-light.svg);
     border-radius: 50%;
     pointer-events: none;
     mix-blend-mode: screen;
@@ -456,7 +456,7 @@ font-style: normal;
   /* ── PARCOURS ── */
   .parcours {
     padding: 8rem 5vw;
-    background-image: url(../img/hero.webp);
+    background-image: url(img/hero.webp);
     background-size: auto;
     background-repeat: no-repeat;
     background-position: 100% 30%;   /* 50% horizontal, 30% vertical */
